@@ -33,6 +33,13 @@ const Sdata = [
       title:"A Netflix Original series",
       sname:"My First First Love ",
       link:"https://www.netflix.com/in/title/81026700",
+    },
+    {
+      id: 6,
+      imgscr:"https://www.hellokpop.com/wp-content/uploads/2019/04/nTFLX.jpg",
+      title:"A Netflix Original series",
+      sname:"My First Hate Story  ",
+      link:"https://www.netflix.com/in/title/81026700",
     }
 ]
 
